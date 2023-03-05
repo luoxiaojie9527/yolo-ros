@@ -1,0 +1,6 @@
+#! /usr/bin/env python3
+
+import yolov5.hello
+
+if __name__ == '__main__':
+    yolov5.hello.say('my friend!')
